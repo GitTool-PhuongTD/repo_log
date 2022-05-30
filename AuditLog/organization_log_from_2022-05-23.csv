@@ -1,0 +1,6 @@
+enterprise,organization,action,actor,user,actorLocation,actorIp,actorLogin,createdAt,operationType,userLogin
+CRESCO Ltd.,CloudDev001,repo.destroy,KoheiAoshima,,Japan,61.125.128.194,KoheiAoshima,2022-05-25T12:51:08.609Z,REMOVE,
+CRESCO Ltd.,CloudDev001,repo.create,KoheiAoshima,,Japan,61.125.128.194,KoheiAoshima,2022-05-25T12:49:06.747Z,CREATE,
+CRESCO Ltd.,CloudDev001,repo.change_merge_setting,KoheiAoshima,,Japan,61.125.128.194,KoheiAoshima,2022-05-25T12:49:06.456Z,MODIFY,
+CRESCO Ltd.,CloudDev001,repo.change_merge_setting,KoheiAoshima,,Japan,61.125.128.194,KoheiAoshima,2022-05-25T12:49:06.431Z,MODIFY,
+CRESCO Ltd.,CloudDev001,org.add_member,GitTool-LuanND,GitTool-LuanND,Vietnam,,GitTool-LuanND,2022-05-24T01:52:00.110Z,CREATE,GitTool-LuanND
